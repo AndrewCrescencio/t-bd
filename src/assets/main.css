@@ -1,0 +1,9 @@
+@import './reset.css';
+@import './base.css';
+
+@media (min-width: 1280px) {
+  #app {
+    display: flex;
+    min-height: 100vh;
+  }
+}
